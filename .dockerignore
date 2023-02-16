@@ -1,4 +1,5 @@
 build/
+data/
 *.*~
 examples/build/
 doc/html/
